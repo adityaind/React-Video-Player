@@ -1,10 +1,10 @@
 import React from 'react';
 
 
-const PlaylistHeader = props => {
+const PlaylistHeader = props => (
    <div>
-       Nightmode!!!
+       PlaylistHeader!!
    </div>
-}
+)
 
 export default PlaylistHeader;

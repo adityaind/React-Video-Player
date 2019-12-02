@@ -1,8 +1,8 @@
 import React from 'react';
 import PlaylistItem from '../PlaylistItem';
 
-const Playlistitems = props => {
+const Playlistitems = props => (
      <PlaylistItem />
-}
+)
 
-export default Playlist;
+export default PlaylistItem;

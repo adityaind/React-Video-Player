@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactPlayer from 'react-player';
 
-const Video = props => {
+const Video = props => (
    <div>
-       Nightmode!!!
+       video!!!
    </div>
-}
+)
 
 export default Video;
